@@ -1,14 +1,12 @@
 PODS:
-  - Charts (2.3.0):
-    - Charts/Core (= 2.3.0)
-  - Charts/Core (2.3.0)
+  - LSRepeater (0.0.11)
 
 DEPENDENCIES:
-  - Charts
+  - LSRepeater
 
 SPEC CHECKSUMS:
-  Charts: 55d7fd9af175b500208601bea872f0fc72c1d19e
+  LSRepeater: a595bb0e043612c7a23a636654a5875f2c229aa4
 
-PODFILE CHECKSUM: d456e298e993134f5d59dfcac6b95225e565a0d4
+PODFILE CHECKSUM: 1d7f0455571a86b8e161c27066558a33c1978fc2
 
-COCOAPODS: 1.0.1
+COCOAPODS: 1.1.0.rc.2

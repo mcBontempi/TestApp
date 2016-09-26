@@ -8,6 +8,6 @@ target 'TestApp' do
   # Pods for TestApp
 
 
-pod 'Charts'
+pod 'LSRepeater'
 
 end
